@@ -48,15 +48,6 @@ I'm currently exploring internship opportunities in Data Science, Data Analyst, 
 - [**My Personal Website! Caslow's Portfolio**](https://github.com/CaslowChien/portfolio)
   - 🔗[Explore My Portfolio](https://caslowchien.github.io/portfolio/)
 
-## 📚 Education
-- **Master of Science in Data Science**, Boston University (2024 - Expected 2025)<br>
-- **Bachelor of Science in Physics**, National Taiwan University (2019 - 2024)
-
-## 📝 Publications
-- 📄 [**The International Workshop on Advanced Image Technology**](To be published in Merch 2025)
-  - International Workshop on Advanced Image Technology (IWAIT), 2025.
-  - Fine-tuned a 3D dance video generation model with PyTorch to specialize in breakdancing, expanding the dataset from 1,269 to 1,435 motion-music pairs with self-edited clips, resulting in an 18% increase in votes in a performance blind test.
-
 ## 💻 Tech Stack
 - **Data Science (Data Mining, Statistic, Visualization, Machine Learning)**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
@@ -70,4 +61,13 @@ I'm currently exploring internship opportunities in Data Science, Data Analyst, 
 - **Website Create**<br>
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaslowChien&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaslowChien&layout=compact)
+
+## 📚 Education
+- **Master of Science in Data Science**, Boston University (2024 - Expected 2025)<br>
+- **Bachelor of Science in Physics**, National Taiwan University (2019 - 2024)
+
+## 📝 Publications
+- 📄 [**The International Workshop on Advanced Image Technology**](To be published in Merch 2025)
+  - International Workshop on Advanced Image Technology (IWAIT), 2025.
+  - Fine-tuned a 3D dance video generation model with PyTorch to specialize in breakdancing, expanding the dataset from 1,269 to 1,435 motion-music pairs with self-edited clips, resulting in an 18% increase in votes in a performance blind test.
